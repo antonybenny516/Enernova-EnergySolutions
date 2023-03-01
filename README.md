@@ -1,4 +1,4 @@
-# Enernova-EnergySolutions is satic website.
+# Enernova-EnergySolutions is a satic website.
 Technologies used HTML, CSS, Bootstrap 
 
 
