@@ -1,0 +1,263 @@
+/* nav section and background */
+.header{
+    background-image: url(images/energy-storage.jpg);
+    opacity: 0.9;
+    width: 100%;
+    height: 800px;
+    
+
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-right: 0%;
+    z-index: 2;
+}
+
+.nav-item{
+    
+    margin-left: calc(13%);
+}
+.nav-link{
+    color: black;
+    font-weight: bold;
+}
+/* section 1 */
+.top-head{
+    margin-top: 200px; opacity: 2.0;
+}
+.sec1-img{
+    width: 15rem; margin-left: 16%;
+}
+
+
+/* section 2 */
+.s2-img-business{
+    width: 40rem; height: 30rem;
+}
+
+.h5b{
+    color:rgb(52, 160, 233) ;
+}
+.s2-img-learn-more{
+    width:8rem; height: 3rem;
+}
+
+/* section 3 */
+
+.cd1{
+    opacity: 0.4;
+}
+.cd1-h{
+    color:white; position: absolute; margin-top: -90px; margin-left: 160px;
+}
+.cd2-img{
+    opacity: 0.8;
+}
+.cd2-cd{
+    max-width: 27rem; opacity: 0.7;
+}
+.cd2-p{
+    font-size: 20px;
+}
+.cd3-img{
+    opacity: 0.4;
+}
+.cd3-h{
+    color:white; position: absolute; margin-top: -90px; margin-left: 160px;
+}
+
+/* section 4 */
+.s4-cd{
+    width: 18rem;
+}
+
+/* section 5 */
+.h4b{
+    color: #50a3f6;
+}
+ul.a{
+    list-style-image: url('images/EnerNOva_icon.png');
+}
+.s5-p{
+    font-size: 20px;
+}
+
+/* section 6 */
+.s6-bg{
+    background-color: rgb(207, 206, 206); width: 50px; height: 400px;
+}
+/* section 7 */
+.s7-cd{
+    width: 18rem; border: none;
+}
+.s7-img{
+    width: 7rem; height:7rem; margin-left: 5rem;
+}
+
+/* section 8 */
+.s8-cf-bg{
+    background-color: rgb(174, 210, 228, 0.4);
+}
+.s8-img1{
+    margin-left: 100px;
+}
+.s8-name{
+    width:280px; height: 60px; border: none; margin-top: 40px;
+}
+.s8-number{
+    width:280px; height: 60px; border: none; margin-top: 20px;
+}
+.s8-btn-submit{
+    background-color: #50a3f6;; width:10rem; height: 3rem; border: none; color: white; font-size: 20px; margin-top: 20px;
+}
+
+.s8-email{
+    width:280px; height: 60px; border: none;margin-top: 40px;
+}
+
+.s8-company{
+    width:280px; height: 60px; border: none; margin-top: 20px;
+}
+
+/* section 9 */
+.s9-cd1{
+    width: 11rem; height: 11rem; align-items: center;
+}
+.s9-cdimg{
+    width: 10rem; height: 10rem; margin-top: 4px;
+}
+.s9-cd2{
+    width: 11rem;  height: 11rem;
+}
+
+/* section 10 */
+.s10-bg{
+    background-color: rgb(219, 214, 214);
+}
+.s10-h1{
+    color:rgb(52, 160, 233) ;
+}
+
+/* section 11 */
+.s11-ml{
+    margin-left: 180px;
+}
+.s11-cd{
+    width: 20rem;
+}
+.cd-date{
+    background-color: #50a3f6; width:120px; height:25px; color: azure; margin-left: 30px;margin-top: -15px;
+}
+.img-arrow{
+    height: 30px; width:50px;
+}
+.s11-btn{
+    margin-left:670px;
+}
+.bar{
+    background-color: #61bcfe; width:100px;
+}
+.s12-h1{
+    color: white;
+}
+.s12-btn{
+    margin-left: 250px; width: 120px; height: 40px; border:none; background-color: white; color:#50a3f6; font-weight: bold;
+}
+
+/* last section*/
+.ls-bg{
+    background-color: black;  color: white;
+}
+.ener-cl{
+    margin-left: 320px;
+}
+.ener-img{
+    width: 200px; height:50px;
+}
+.icon-location{
+    width: 25px; height:25px;
+}
+.icon-call{
+    width: 25px; height:25px;
+}
+.icon-mail{
+    width: 30px; height:25px;
+}
+.quick-links{
+    margin-left: 50px;
+}
+.quick{
+    color: white;
+}
+.links{
+    color: #50a3f6;
+}
+.newour{
+    margin-left: 70px;
+}
+.our{
+    color: white;
+}
+.new{
+    color:#50a3f6 ;
+}
+.your-mail{
+    background-color: white;color:black; width: 300px; height: 40px;
+}
+.go-arrow{
+    width: 40px; height:40px;
+}
+.hrow1{
+    background-color: black;  color: white;
+}
+.hrow2{
+    width: 700; margin-top: 50px ;
+}
+.hbar{
+    width: 1200px; height:5px; margin-left:200px
+}
+.copyr{
+    color: rgb(148, 147, 147); margin-left: 650px;
+}
+
+
+.img1{
+    width: 150px;
+    height: 40px;
+}
+
+.nav-item{
+    nav-left: 50px;
+}
+
+.p1{
+    color: rgb(52, 160, 233);
+}
+
+.img_card{
+width: 286px;
+height: 190.5px;
+}
+
+
+
+.companies{
+    margin-left: 250px;
+}
+
+
+/* card transform */
+.card-hover{
+    transform: 1s;
+
+}
+.card-hover:hover{
+    transform:scale(1.2);
+    z-index: 2;  
+}
+
+h5{
+    color: black;
+}
+h5:hover{
+    color:rgb(52, 160, 233);
+}
